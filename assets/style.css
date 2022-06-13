@@ -1,7 +1,7 @@
 .polygon:hover {
   fill: lightsalmon;
   stroke: aquamarine;
-  stroke-width: 6px;
+  stroke-width: 6;
 }
 div{
   margin-left: 100px;
